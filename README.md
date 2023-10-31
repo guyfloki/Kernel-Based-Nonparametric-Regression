@@ -20,6 +20,7 @@ This Nonparametric Regression Library is inspired by the [Kernel Regression meth
 3. [Usage](#usage)
     - [Simple Example](#simple-example)
     - [Advanced Usage](#advanced-usage)
+4.[Performance Comparison](#performance-comparison)
 
 ## Requirements
 
