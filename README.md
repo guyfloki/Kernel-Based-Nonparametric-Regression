@@ -43,8 +43,8 @@ To get started with the Nonparametric Regression Library, follow these steps:
 1. Download the library:
 
     ```bash
-    git clone https://github.com/yourusername/Nonparametric-Regression.git
-    cd Nonparametric-Regression
+    !git clone https://github.com/guyfloki/Kernel-Based-Nonparametric-Regression.git
+    !cd Kernel-Based-Nonparametric-Regression
     ```
 
 2. Install required Python packages:
@@ -60,7 +60,7 @@ To get started with the Nonparametric Regression Library, follow these steps:
 Here's how you can quickly get started:
 
 ```python
-from kernel_regressions import estimators, data, plotting
+import estimators, data, plotting
 import numpy as np
 
 # Generate sinusoidal data
