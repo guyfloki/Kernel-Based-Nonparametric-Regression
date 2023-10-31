@@ -13,6 +13,7 @@ This Nonparametric Regression Library is inspired by the [Kernel Regression meth
 - **Sinusoidal Data Generation**: Functionality to generate synthetic sinusoidal data with noise.
 - **Visualization**: Built-in plotting functions for estimator comparison.
 
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
@@ -20,7 +21,8 @@ This Nonparametric Regression Library is inspired by the [Kernel Regression meth
 3. [Usage](#usage)
     - [Simple Example](#simple-example)
     - [Advanced Usage](#advanced-usage)
-4.[Performance Comparison](#performance-comparison)
+4. [Performance Comparison](#performance-comparison)
+
 
 ## Requirements
 
