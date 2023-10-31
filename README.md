@@ -88,8 +88,6 @@ This library offers several advanced features:
 
 ![Comparison of Nonparametric Estimators](./estimator_comparison.png)
 
-## Performance Comparison
-
 ### Estimation Comparison for Nonparametric Regression Methods
 
 ![Estimation Comparison](./estimation_comparison.png)
